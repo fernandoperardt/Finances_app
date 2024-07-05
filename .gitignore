@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.so
+
+# Flask
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.so
+*.log
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.db-journal
+*.ipynb
+*.coverage
+*.pytest_cache
+
+# Flask App
+venv/
